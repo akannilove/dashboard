@@ -1,0 +1,1 @@
+console.log('how about we learn some basic few things before we leave service');
