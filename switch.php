@@ -57,7 +57,7 @@ class AdminUser extends User{
 $userOne = new User('mario', 'mario@thenetninja.com');
 $userTwo = new User('luigi', 'luigi@thenetninja.com');
 $userThree = new AdminUser(
-     'Ancestor Oladimeji',
+     'Ancestor Qudus Oladimeji',
      'dimejiakanni@gmail.com',
      5
 );
